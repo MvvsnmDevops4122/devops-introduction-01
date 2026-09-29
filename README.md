@@ -1,12 +1,22 @@
-# SDLC to DevOps — The Complete Software Delivery Journey
+# DevOps Class 01 — SDLC & DevOps Fundamentals
 
 This repository contains my learning notes and practical understanding of:
 
+## Topics Covered
+
+- Stakeholders
 - SDLC
-- Waterfall
-- Agile
+- SDLC Phases
+- SDLC Models
+- Waterfall Model
+- Agile Model
+- Sprint
+- Agile Advantages
+- Agile with DevOps
 - DevOps
+- Development vs Operations
 - DevSecOps
+- DevOps Tools
 
 ## DevOps Tools
 
