@@ -1,4 +1,4 @@
-# DevOps Class 01 — SDLC & DevOps Fundamentals
+# DevOps Introduction — SDLC & DevOps Fundamentals
 
 This repository contains my learning notes and practical understanding of:
 
